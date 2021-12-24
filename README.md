@@ -15,6 +15,8 @@
 * Bidirectional LSTM uses RMSE in objective and Adam in optimizer.
 * reference paper : ‘양방향 LSTM 순환신경망 기반 주가 예측 모델’ 
 * paper link : https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO201819355173173&dbt=NART
+![image](https://user-images.githubusercontent.com/59464208/147327623-82acb18e-f672-4eea-9f78-af3354ea416f.png)
+
 
 ### 4. Time Series GAN
 * reference paper: Stock Market Prediction on High-Frequency Data Using Generative Adversarial Nets
