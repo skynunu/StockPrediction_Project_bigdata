@@ -23,4 +23,5 @@
 * link :  https://www.hindawi.com/journals/mpe/2018/4907423/
 * LSTM in the generator predicts the data of the next time point like the basic LSTM model. 
 * In Discriminator, the existing stock price data from time 1 to time T and the generated prediction value were received as input to distinguish the authenticity of the data. 1d convolution layer was used in discriminator
+![image](https://user-images.githubusercontent.com/59464208/147327729-0c580871-b996-428a-9510-f6c397773390.png)
 ![image](https://user-images.githubusercontent.com/59464208/147327583-b68bc243-b84b-4ac6-a58d-cb8eb680c338.png)
