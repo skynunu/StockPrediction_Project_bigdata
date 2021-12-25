@@ -28,11 +28,12 @@
 
 
 ### 5. Experiment result
-Comparing prediction graph
+
+#### Comparing prediction graph
 ![increase](https://user-images.githubusercontent.com/59464208/147377255-eb4399a2-fe7c-4946-b489-047e16839268.PNG)
 ![decrease](https://user-images.githubusercontent.com/59464208/147377257-c3a26f7f-57c1-49ab-a00b-4f3ae07d4fc3.PNG)
 
-Comparing evalation metric
+#### Comparing evalation metric
 ![table](https://user-images.githubusercontent.com/59464208/147377259-ba99af9f-9dc9-4f87-b5dc-73ad46f8ee31.PNG)
 
 
