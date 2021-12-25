@@ -30,7 +30,10 @@
 ### 5. Experiment result
 
 #### Comparing prediction graph
+(1)Predict test data in increase pattern
 ![increase](https://user-images.githubusercontent.com/59464208/147377255-eb4399a2-fe7c-4946-b489-047e16839268.PNG)
+
+(2)Predict test data in decrease pattern
 ![decrease](https://user-images.githubusercontent.com/59464208/147377257-c3a26f7f-57c1-49ab-a00b-4f3ae07d4fc3.PNG)
 
 #### Comparing evalation metric
