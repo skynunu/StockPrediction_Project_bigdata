@@ -26,3 +26,14 @@
 * In Discriminator, the existing stock price data from time 1 to time T and the generated prediction value were received as input to distinguish the authenticity of the data. 1d convolution layer was used in discriminator
 ![image](https://user-images.githubusercontent.com/59464208/147327729-0c580871-b996-428a-9510-f6c397773390.png)
 
+
+### 5. Experiment result
+Comparing prediction graph
+![increase](https://user-images.githubusercontent.com/59464208/147377255-eb4399a2-fe7c-4946-b489-047e16839268.PNG)
+![decrease](https://user-images.githubusercontent.com/59464208/147377257-c3a26f7f-57c1-49ab-a00b-4f3ae07d4fc3.PNG)
+
+Comparing evalation metric
+![table](https://user-images.githubusercontent.com/59464208/147377259-ba99af9f-9dc9-4f87-b5dc-73ad46f8ee31.PNG)
+
+
+
